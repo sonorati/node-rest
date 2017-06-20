@@ -1,0 +1,7 @@
+typings
+node_modules
+_build
+lib/*.js
+samples/*.js
+.DS_Store
+package-lock.json
