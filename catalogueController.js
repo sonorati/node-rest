@@ -1,5 +1,5 @@
 var http = require('http');
-var rest = require('../catalogueService');
+var rest = require('./catalogueService');
 var options = {
   host: 'client.nowtv.com',
   path: '/catalogue'
